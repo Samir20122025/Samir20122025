@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samir20122025
-- 👀 I’m interested in IT.
-- 🌱 I’m currently learning IT.
+- 👀 I’m interested in POGRAMMING.
+- 🌱 I’m currently learning Python and C++.
 - 💞️ I’m looking to collaborate on none.
 - 📫 How to reach me → samirabdumominov@gmail.com
 - 😄 Pronouns: He, his.
