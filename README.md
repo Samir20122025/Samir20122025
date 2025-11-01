@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Samir20122025
-- 👀 I’m interested in POGRAMMING.
+- 👀 I’m interested in PROGRAMMING.
 - 🌱 I’m currently learning Python and C++.
 - 💞️ I’m looking to collaborate on none.
 - 📫 How to reach me → samirabdumominov@gmail.com
